@@ -1,0 +1,8 @@
+name: suffering
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The weight of carrying the gap between what is and what should be, borne and then set down.
+dependsOn: [nam, pain, truth]
